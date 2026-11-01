@@ -1,0 +1,2 @@
+STARTED: Task 6.1 - Implement All Compose UI Screens (Home, PostGrid, PostDetails, Search, Explore, Pools, Forums, Artists, Bookmarks, Blacklist, FavoriteTags, BulkDownloads, BooruConfigs, Settings) and MainActivity.kt
+DONE: Task 6.1 - Implement All Compose UI Screens (Home, PostGrid, PostDetails, Search, Explore, Pools, Forums, Artists, Bookmarks, Blacklist, FavoriteTags, BulkDownloads, BooruConfigs, Settings) and MainActivity.kt

@@ -1,0 +1,8 @@
+{
+  "name": "Boorupaper",
+  "description": "A native Android booru client and wallpaper manager with interactive wallpaper resizing/cropping, bulk downloads, favorite tags, and advanced blacklisting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,2 @@
+STARTED: Task 2.1 - Port Core Domain Models, BooruRegistry (all 14 booru engines), DText Parser, Filename Generator, and Tag Filter Engine
+DONE: Task 2.1 - Port Core Domain Models, BooruRegistry (all 14 booru engines), DText Parser, Filename Generator, and Tag Filter Engine

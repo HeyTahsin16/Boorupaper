@@ -1,0 +1,2 @@
+STARTED: Task 5.1 - Implement Kurumi Theme (Theme.kt) and BoorusamaViewModel.kt
+DONE: Task 5.1 - Implement Kurumi Theme (Theme.kt) and BoorusamaViewModel.kt

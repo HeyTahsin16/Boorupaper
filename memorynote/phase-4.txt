@@ -1,0 +1,2 @@
+STARTED: Task 4.1 - Implement Room Database (AppDatabase.kt) and BoorusamaRepository.kt (Configs, Bookmarks, Blacklist, FavoriteTags, SearchHistory, BulkDownloads, DownloadManager, Settings, Backup/Restore)
+DONE: Task 4.1 - Implement Room Database (AppDatabase.kt) and BoorusamaRepository.kt (Configs, Bookmarks, Blacklist, FavoriteTags, SearchHistory, BulkDownloads, DownloadManager, Settings, Backup/Restore)

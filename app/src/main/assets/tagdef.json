@@ -1,0 +1,54 @@
+{
+    "metatags": [
+      "user", "approver", "disapproved", "commenter", "comm", "noter", "artcomm",
+      "pool", "newpool", "ordpool", "fav", "ordfav", "favgroup", "ordfavgroup",
+      "search", "md5", "rating", "locked", "width", "height", "mpixels", "ratio",
+      "score", "favcount", "filesize", "filetype", "source", "id", "date", "age",
+      "status", "tagcount", "gentags", "arttags", "chartags", "copytags", "metatags",
+      "parent", "child", "pixiv_id", "pixiv", "limit", "order", "comments",
+      "deleted_comments", "active_comments", "notes", "deleted_notes", "active_notes",
+      "flags", "children", "deleted_children", "active_children", "pools",
+      "deleted_pools", "active_pools", "series_pools", "collection_pools",
+      "appeals", "approvals", "replacements", "upvote", "downvote", "has"
+    ],
+    "free_metatags": [
+      "rating", "status", "is", "age", "date", "id", "limit", "score", "downvotes",
+      "favcount", "width", "height", "ratio", "mpixels", "filesize", "filetype",
+      "duration", "md5", "pixiv_id", "pixiv", "parent", "child", "upvote",
+      "embedded", "tagcount"
+    ],
+    "default_blacklisted_tags": [
+      "guro",
+      "scat",
+      "furry -rating:s"
+    ],
+    "r18_tags": [
+      "sex", "vaginal", "penis", "sex_from_behind", "cum_in_pussy", "cum", "nipples",
+      "doggystyle", "girl_on_top", "clothed_sex", "cowgirl_position", "amazon_position",
+      "pussy", "missionary", "spread_legs", "nude", "censor", "anal", "group_sex",
+      "rape", "ass", "fellatio", "bdsm", "loli", "breasts", "breast", "large_breasts",
+      "bestiality", "huge_breasts", "yuri", "paizuri", "uncensored", "pregnant",
+      "futanari", "newhalf", "areola", "testicle", "bukkake", "penetration", "vagina",
+      "handjob", "footjob", "hairjob", "facejob", "tailjob", "shoejob", "buttjob",
+      "glansjob", "pecjob", "tonguejob", "bootjob", "tentacle", "clitoris",
+      "ejaculation", "ejaculating", "gangbang", "vibrator", "pubic", "crotch",
+      "defloration", "fisting", "futa", "fuck", "cunt", "tits", "labia", "dildo",
+      "dilf", "milf", "pectoral", "nipple", "anus", "deepthroat", "cock_ring",
+      "fingering", "suspended", "orgy", "pegging", "prone_bone", "sucking", "pull_out",
+      "underwear", "clitoral", "panties", "bra", "bikini", "mating", "orgasm",
+      "threesome", "insertion", "inflation", "impregnation", "fertilization", "aside",
+      "straddle", "straddling", "urethra", "ovum", "just_the_tip", "69", "toddler",
+      "shota", "strap-on", "grinding", "bulge", "human_toilet", "erect", "tribadism",
+      "sperm", "pokephilia", "hentai", "ahegao", "ovaries", "pee", "moaning",
+      "interracial", "interspecies", "oral", "cunnilingus", "reach-around", "cleavage",
+      "see-through", "boy_on_top", "plap", "necrophilia", "scat", "guro", "v_legs",
+      "m_legs", "stained", "mind_break", "furry", "restrained", "dark-skinned",
+      "saliva", "corruption", "hypnosis", "molestation", "genital", "child_on_child",
+      "hetero", "cheating", "netorare", "netorase", "birth", "breed", "aroused",
+      "presenting", "lube", "naked", "pull", "lactation", "lactating", "ryona",
+      "erotic", "armpit", "humping", "undressing", "undressed", "facial", "thong",
+      "pantyshot", "tanlines", "whore", "g-string", "spreading", "spread_by_another",
+      "garter_belt", "cameltoe", "torn", "boob", "butt", "gaping", "yaoi", "lingerie",
+      "revealing"
+    ]
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boorupaper</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_pools">Pools</string>
+    <string name="nav_forum">Forum</string>
+    <string name="nav_forums">Forums</string>
+    <string name="nav_artists">Artists</string>
+    <string name="nav_bookmarks">Your Bookmarks</string>
+    <string name="nav_blacklist">Your Blacklist</string>
+    <string name="nav_blacklisted_tags">Blacklisted Tags</string>
+    <string name="nav_favorite_tags">Favorite Tags</string>
+    <string name="nav_bulk_download">Bulk Download</string>
+    <string name="nav_bulk_downloads">Bulk Downloads</string>
+    <string name="nav_download_manager">Download Manager</string>
+    <string name="nav_booru_configs">Manage Booru Profiles</string>
+    <string name="nav_settings">Settings</string>
+    <string name="search_hint">Search tags (e.g. rating:general order:score)…</string>
+    <string name="action_search">Search</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_bookmark">Bookmark</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_download">Download</string>
+    <string name="action_wallpaper">Set as Wallpaper</string>
+    <string name="action_share">Share</string>
+    <string name="action_comments">Comments</string>
+    <string name="action_notes">Notes</string>
+    <string name="action_add_booru">Add Booru Profile</string>
+    <string name="action_edit_booru">Edit Current Profile</string>
+    <string name="empty_posts">No posts found for this query</string>
+    <string name="empty_no_posts">No posts found for this query</string>
+    <string name="empty_no_profiles_title">No Booru Profiles Configured</string>
+    <string name="empty_no_profiles_subtitle">Add a Booru profile to start browsing and setting wallpapers.</string>
+    <string name="empty_no_bookmarks">No bookmarks saved yet</string>
+    <string name="empty_no_favorite_tags">No favorite tags saved yet</string>
+    <string name="empty_no_blacklist">No blacklisted tags configured</string>
+    <string name="error_network">Network error while loading posts</string>
+    <string name="network_unavailable">Network unavailable</string>
+</resources>

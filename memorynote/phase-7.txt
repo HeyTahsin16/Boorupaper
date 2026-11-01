@@ -1,0 +1,6 @@
+STARTED: Task 7.1 - Create Unit/Robolectric Tests and Verify Compilation via compile_applet
+DONE: Task 7.1 - Create Unit/Robolectric Tests and Verify Compilation via compile_applet
+STARTED: Task 7.2 - Remove unnecessary Flutter/Dart and non-Android files, update README.md, and run final compile_applet
+DONE: Task 7.2 - Remove unnecessary Flutter/Dart and non-Android files, update README.md, and run final compile_applet
+STARTED: Task 7.3 - Implement BoorusamaApplication with Coil ImageLoaderFactory to fix ClassNotFoundException on startup
+DONE: Task 7.3 - Implement BoorusamaApplication with Coil ImageLoaderFactory to fix ClassNotFoundException on startup

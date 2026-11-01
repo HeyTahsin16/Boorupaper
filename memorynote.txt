@@ -1,0 +1,5 @@
+CURRENT_PHASE: phase-8.txt
+NEXT: Task 8.1 - Rebrand app to Boorupaper (metadata.json, strings.xml, settings.gradle.kts, README.md), remove all default/preset Booru profiles, and implement interactive Wallpaper Resizer & Setter feature
+NEXT: COMPLETED
+NEXT: Task 8.2 - Configure /images/logo.png as the Boorupaper adaptive and raster app launcher icon
+NEXT: COMPLETED

@@ -1,0 +1,2 @@
+STARTED: Task 3.1 - Implement Multi-Engine BooruApiClient (Danbooru, Gelbooru v0.2.5/v0.2/v0.1, Moebooru, e621/e926, Philomena, Zerochan, Sankaku, Shimmie2, Szurubooru, Hydrus, Anime-Pictures, Hybooru, E-Shuushuu, Nozomi)
+DONE: Task 3.1 - Implement Multi-Engine BooruApiClient (Danbooru, Gelbooru v0.2.5/v0.2/v0.1, Moebooru, e621/e926, Philomena, Zerochan, Sankaku, Shimmie2, Szurubooru, Hydrus, Anime-Pictures, Hybooru, E-Shuushuu, Nozomi)
